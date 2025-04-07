@@ -64,6 +64,8 @@ To run same as before :
  './docker_test.sh'
  ```
  
+ ---
+ 
 # Bowling Kata
  ein Übungsprojekt für die ILV Software Testing an der FH Campus Wien
  
