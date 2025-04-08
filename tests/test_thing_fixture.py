@@ -1,6 +1,7 @@
 import pytest
 from thing import Thing
-
+import sys
+print(sys.path)
 
 @pytest.fixture
 def thing():
